@@ -1,6 +1,6 @@
 In the project directory, you can run:
 
-### `yarn start` or ###`node index.js'
+### `yarn start` or ### `node index.js'
 
 This project is developed as part of my learning of GraphQL and ReactJS. This is client app.
 
